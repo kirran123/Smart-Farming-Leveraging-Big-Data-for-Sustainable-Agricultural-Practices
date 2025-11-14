@@ -1,0 +1,2 @@
+# Smart-Farming-Leveraging-Big-Data-for-Sustainable-Agricultural-Practices
+A front-end prototype that demonstrates how big-data techniques can drive sustainable agriculture. Built with HTML, CSS and JavaScript, it visualizes farm telemetry, crop and weather datasets, and recommendation outputs (irrigation, fertilizer, planting schedule) to help farmers make data-driven decisions that reduce waste and increase yield.
